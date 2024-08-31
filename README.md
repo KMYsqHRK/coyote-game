@@ -24,7 +24,7 @@ pip install -r requirements.txt
 1. ゲームを起動します：
 
 ```
-python indian_poker7.py
+python coyo-te.py
 ```
 
 2. 画面の指示に従ってプレイします。
